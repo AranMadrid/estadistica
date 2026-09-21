@@ -1,0 +1,2 @@
+# estadistica
+ejercicios de estadisticas
